@@ -1,6 +1,6 @@
 # Mediatek86
 Login pour se connecter à l'Application :
 
-Identifiant : Mediatekadmin
+Identifiant : Mediatekresp
 
 Mot De Passe : Admin123!
