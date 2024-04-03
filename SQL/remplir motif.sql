@@ -1,0 +1,1 @@
+INSERT INTO motif (LIBELLE) VALUES ('vacances'), ('maladie'), ('motif familial'), ('congé parental')

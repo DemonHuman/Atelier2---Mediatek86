@@ -1,0 +1,1 @@
+INSERT INTO service (NOM) VALUES ('administratif'), ('médiation culturelle'), ('prêt')
