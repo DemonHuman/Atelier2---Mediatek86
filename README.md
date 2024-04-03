@@ -1,3 +1,4 @@
-# Porjet source.zip
-fichiers .designer.cs = vue 
-fichiers .cs = controleur
+# Mediatek86
+Login pour se connecter à l'Application :
+Identifiant : Mediatekadmin
+Mot De Passe : Admin123!
