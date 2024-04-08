@@ -7,7 +7,7 @@ namespace dal
 {
     public class sqlreq
     {
-        private static string connectionstring = "server=localhost;userid=responsable;password=pn995T2S;database=MediaTek86";
+        private static string connectionstring = "server=localhost;userid=responsable;password=Admin123!;database=MediaTek86";
         private static MySqlConnection sql = new MySqlConnection(connectionstring);
 
         /// <summary>
